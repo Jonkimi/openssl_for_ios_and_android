@@ -8,7 +8,7 @@
 <tr><td>library</td><td>version</td><td>platform support</td><td>arch support</td><td>pull commit</td></tr>
 </thead>
 <tbody>
-<tr><td>openssl</td><td>1.1.1d</td><td>ios</td><td>armv7 arm64 arm64e x86_64 </td><td>aae1672</td></tr>
+<tr><td>openssl</td><td>1.1.1g</td><td>ios</td><td>armv7 arm64 arm64e x86_64 </td><td>aae1672</td></tr>
 <tr><td></td><td></td><td>android</td><td>armeabi-v7a arm64-v8a x86 x86_64 </td><td>aae1672</td></tr>
 <tr><td>nghttp2</td><td>1.40.0</td><td>ios</td><td>armv7 arm64 arm64e x86x86_64 </td><td>aae1672</td></tr>
 <tr><td></td><td></td><td>android</td><td>armeabi-v7a arm64-v8a x86 x86_64 </td><td>aae1672</td></tr>
@@ -25,7 +25,7 @@ If you do not want to build it by yourself, you could download our prebuilt libr
 
  - ~~[openssl-1.0.2c.tar.gz](https://www.openssl.org/source/openssl-1.0.2c.tar.gz)~~
  - [openssl-1.1.0f.tar.gz](https://www.openssl.org/source/openssl-1.1.0f.tar.gz)
- - [openssl-1.1.1d.tar.gz](https://www.openssl.org/source/openssl-1.1.1d.tar.gz)
+ - [openssl-1.1.1g.tar.gz](https://www.openssl.org/source/openssl-1.1.1g.tar.gz)
  - [https://github.com/openssl/openssl](https://github.com/openssl/openssl)
 
 ## nghttp2 Version
